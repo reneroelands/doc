@@ -1,0 +1,11 @@
+- Robert Hendriksen
+- enterprise architect
+- 25
+- state 
+- fluid power
+- 80 % code
+- SAXCS overlap
+- TWINCAT ook ondersteund
+- Failure Mode Analysis
+- Recovery 
+
