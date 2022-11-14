@@ -67,10 +67,13 @@ Wat doe je na een "late result counter" fout
 
 ## 0556.011.0001-03 Software requirements XSS (SRS)
 
-# 3.1.1	Product Perspective
+### 3.1.1	Product Perspective
 
 Wat is "singulation"?
 wat zijn "doubles"?
+
+### 3.1.2 Product Functions
+Het is mij niet helemaal duidelijk hoe de tray handler werkt en wat de functie precies is.
 
 
 ## 0556.011.0002-04 Software Architecture Specification (SAS)
